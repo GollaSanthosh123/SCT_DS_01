@@ -12,9 +12,9 @@ The primary objective of this task is documented in the [SCT_DS_01.pdf](https://
 
 ##  Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, etc.)
-- Jupyter Notebook
-- Git & GitHub
+- Power BI
+- Excel
+- Kaggle
 - Data Visualization
 
 ##  Learnings
@@ -22,5 +22,5 @@ The primary objective of this task is documented in the [SCT_DS_01.pdf](https://
 Through this task, I gained hands-on experience in:
 - Data preprocessing and cleaning
 - Exploratory data analysis
-- Generating insights using Python libraries
+- Generating insights using PowerBI
 - Structuring and documenting a data science project
